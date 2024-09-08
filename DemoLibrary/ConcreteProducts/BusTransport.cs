@@ -1,6 +1,6 @@
 ﻿using DemoLibrary.ProductInterfaces;
 
-namespace DemoLibrary.ConcretePriducts;
+namespace DemoLibrary.ConcreteProducts;
 /// <summary>
 /// Concrete Products provide various implementations of the Product
 /// interface.

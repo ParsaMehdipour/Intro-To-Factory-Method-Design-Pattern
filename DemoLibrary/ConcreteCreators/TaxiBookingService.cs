@@ -1,5 +1,5 @@
 ﻿using DemoLibrary.AbstractCreators;
-using DemoLibrary.ConcretePriducts;
+using DemoLibrary.ConcreteProducts;
 using DemoLibrary.ProductInterfaces;
 
 namespace DemoLibrary.ConcreteCreators;
