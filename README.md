@@ -18,3 +18,6 @@ Note, despite its name, product creation is not the primary responsibility of th
 4. Concrete Creators override the base factory method so it returns a different type of product.
 
 Note that the factory method doesn’t have to create new instances all the time. It can also return existing objects from a cache, an object pool, or another source.
+
+Image and Description source: Dive Into DESIGN PATTERNS by Alexander Shvets <br/>
+Link to the book : https://refactoring.guru/design-patterns/book
